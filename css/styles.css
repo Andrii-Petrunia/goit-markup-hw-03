@@ -135,6 +135,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  padding: 24px 0;
 }
 
 .header-menu-link:hover,
@@ -367,7 +368,6 @@ body {
   gap: 24px;
   margin-bottom: 72px;
 }
-
 
 .filter-btn {
   background-color: var(--cloud, #f4f4fd);
