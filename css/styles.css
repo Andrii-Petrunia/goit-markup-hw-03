@@ -322,6 +322,7 @@ body {
   text-transform: uppercase;
   display: inline-flex;
   margin-bottom: 16px;
+  display: inline-block;
 }
 
 .footer-logo-part {
@@ -395,8 +396,6 @@ body {
 }
 
 .portfolio-card-content {
-  
-  
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
