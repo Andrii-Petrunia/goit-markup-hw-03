@@ -395,8 +395,8 @@ body {
 }
 
 .portfolio-card-content {
-  display: flex;
-  flex-direction: column;
+  
+  
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
